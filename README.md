@@ -45,5 +45,7 @@ Contribution
 We welcome contributions! To contribute:
 extract feature from text data and perform nlp techniques such as tokenization ,lemitaization 
 i done text processing ,web scrappihg
+
+Output:
 ![image alt](https://github.com/Manshrishevde/web_scrapping_chatbot/blob/449162d1af9e9b3bebef3b4f6ecd9f9c24112a08/Screenshot%20(197).png)
 
